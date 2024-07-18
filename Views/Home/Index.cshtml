@@ -1,0 +1,85 @@
+﻿@using cinema.Model
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!--<a asp-controller="Home" asp-action="RedirectToFilmDTO">Go to Film management</a>
+<a asp-controller="Home" asp-action="RedirectTosalleDTO">Go to Salle management</a>
+<a asp-controller="Home" asp-action="RedirectTopositionDTO">Go to positions management</a>
+<a asp-controller="Home" asp-action="RedirectToplanificationDTO">Go to planifications management</a>
+<a asp-controller="Home" asp-action="RedirectTouserDTO">Go to user management</a>-->
+@{
+    ViewBag.Title = "Ma page";
+}
+
+<style>
+    body {
+        background-image: url('https://img00.deviantart.net/70e7/i/2010/072/9/a/simple_album_mosaic_by_justmardesign.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+
+    header ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        background-color: darkorange;
+    }
+
+    header li {
+        margin: 0 10px;
+    }
+
+    header a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+        header a:hover {
+            background-color: #ddd;
+            color: white;
+        }
+
+    article {
+        background-color: white;
+        opacity: 0.9;
+    }
+
+        article h1 {
+            text-align: center;
+        }
+</style>
+
+<body>
+    <header>
+        <ul>
+            <li><a asp-controller="Home" asp-action="RedirectToFilmDTO">Gestion des films</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectTosalleDTO">Gestion des salles</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectTopositionDTO">Gestion des positions</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectToplanificationDTO">Gestion des planifications</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectTouserDTO">Gestion des utilisateurs</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectTodate">Gestion des Dates</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectToclient">S'inscrire'</a></li>
+            <li><a asp-controller="Home" asp-action="RedirectToReservation">Reserver Ticket Film </a></li>
+        </ul>
+    </header>
+    <article>
+        <h1>Welcome !</h1>
+
+    </article>
+
+
+
+
+
+</body>
+<!--<video height="300" controls>
+  <source src="C:/Users/wiemb/Desktop/movies intro disney, 20th, marvel, warner bros,netflix,universal.mp4" type="video/mp4">
+</video>-->

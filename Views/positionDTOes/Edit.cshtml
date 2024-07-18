@@ -1,0 +1,44 @@
+﻿@model positionDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>positionDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="idPos" />
+            <div class="form-group">
+                <label asp-for="ligne" class="control-label"></label>
+                <input asp-for="ligne" class="form-control" />
+                <span asp-validation-for="ligne" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="colonne" class="control-label"></label>
+                <input asp-for="colonne" class="form-control" />
+                <span asp-validation-for="colonne" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalleId" class="control-label"></label>
+                <select asp-for="SalleId" class="form-control" asp-items="ViewBag.SalleId"></select>
+                <span asp-validation-for="SalleId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

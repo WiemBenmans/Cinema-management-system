@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cinema
+build_property.RootNamespace = cinema
+build_property.ProjectDir = C:\Users\pc\source\repos\cinema\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pc\source\repos\cinema
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pc/source/repos/cinema/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Dates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Dates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Dates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Dates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Dates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/FilmDTOes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbURUT2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/FilmDTOes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbURUT2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/FilmDTOes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbURUT2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/FilmDTOes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbURUT2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/FilmDTOes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbURUT2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Planifications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmlmaWNhdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Planifications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmlmaWNhdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Planifications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmlmaWNhdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Planifications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmlmaWNhdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Planifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmlmaWNhdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/positionDTOes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25EVE9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/positionDTOes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25EVE9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/positionDTOes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25EVE9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/positionDTOes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25EVE9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/positionDTOes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG9zaXRpb25EVE9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/ReservationDTOes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25EVE9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/ReservationDTOes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25EVE9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/ReservationDTOes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25EVE9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/ReservationDTOes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25EVE9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/ReservationDTOes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25EVE9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/salleDTOes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FsbGVEVE9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/salleDTOes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FsbGVEVE9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/salleDTOes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FsbGVEVE9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/salleDTOes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FsbGVEVE9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/salleDTOes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2FsbGVEVE9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/userDTOes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlckRUT2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/userDTOes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlckRUT2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/userDTOes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlckRUT2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/userDTOes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlckRUT2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/userDTOes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlckRUT2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/source/repos/cinema/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g2vcoaz0qk
